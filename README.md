@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+You can visit demo version of this site here: [DEMO](https://react-pizza-market.herokuapp.com)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
